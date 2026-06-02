@@ -1,0 +1,4 @@
+source: "."
+site:
+  title: about me
+  base_url: https://eqbic.github.io
