@@ -1,10 +1,17 @@
 ---
 layout: default.liquid
 ---
-## Blog! Hello
 
-{% for post in collections.posts.pages %}
-#### {{post.title}}
+![](img/test.jpg)
 
-[{{ post.title }}]({{ post.permalink }})
-{% endfor %}
+- [github](https://github.com/eqbic)
+- [linkedin](https://www.linkedin.com/in/erich-querner/)
+- [cv](cv.html)
+
+## about
+Hey, I'm Erich. I am a software developer based in Berlin.
+
+
+## interests
+
+## projects
